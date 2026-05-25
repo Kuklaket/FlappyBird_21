@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0072cf0f0d72a2541a78ea6e46f8ed4a, type: 3}
+  m_Name: WitchBullet
+  m_EditorClassIdentifier: Assembly-CSharp::BulletData
+  BulletSprite: {fileID: 6630341104690361922, guid: f9561d0e5c052474ab2de6c6ae6140d1, type: 3}
+  Speed: 10
+  Direction: {x: -1, y: 0}
+  defaultCapacity: 10
+  maxSize: 10
